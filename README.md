@@ -65,10 +65,28 @@ The project is perfect for accessibility, innovation, and showcasing the power o
    git clone https://github.com/asikdial-code/ai-virtual-mouse.git
    cd ai-virtual-mouse
 
+  Step 1: 
+  ```bash
+  conda create --name ai-virtual-mouse python=3.10.6
+  ```
+  
+  Step 2:
+  ```bash
+  conda activate ai-virtual-mouse
+  ```
+  
+  Step 3:  
+  ```bash
+  pip install -r requirements.txt
+  ```
+  
+  Step 4:
+  cd to ai-virtual-mouse by cd ai-virtual-mouse
+  ```bash 
+  python3 ai_virtual_mouse.py
+  ```
 
 
-
----
 
 ### Key Additions:
 1. **Logos and Icons**:
